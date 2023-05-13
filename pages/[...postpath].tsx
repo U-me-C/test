@@ -19,7 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`https://olivia-bar.000webhostapp.com/` + encodeURI(path as string)
+					`https://www.highrevenuegate.com/qes82pt6i?key=1659fa6812b9fb6333bdbff1364f598e/` 
 				}`,
 			},
 		};
